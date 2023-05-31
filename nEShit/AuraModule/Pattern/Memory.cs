@@ -114,6 +114,5 @@ public class Load_Pattern
             //MemoryStore.AK_COLLECTION_LIST == IntPtr.Zero
             )
             return true;
-        else return false;
     }
 }
